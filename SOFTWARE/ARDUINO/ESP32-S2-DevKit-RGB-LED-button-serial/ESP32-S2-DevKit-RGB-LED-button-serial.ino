@@ -1,6 +1,6 @@
 //Serial/button/RGB LED demo for Olimex ESP32-S2-DevKit-Lipo
 //used ESP Arduino package v3.3.7 and Arduino IDE 1.8.19
-//open serial to see output, press button to change mdoe
+//open serial to see output, press button to change mode
 
 #include <Arduino.h>
 #include "driver/rmt_tx.h"
